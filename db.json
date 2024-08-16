@@ -1,0 +1,46 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "date": "01.06.2024",
+      "amount": 65,
+      "type": "income",
+      "details": "Salary"
+    },
+    {
+      "id": 2,
+      "date": "05.08.2024",
+      "amount": 59,
+      "type": "expense",
+      "details": "Groceries"
+    },
+    {
+      "id": 3,
+      "date": "07.08.2024",
+      "amount": 80,
+      "type": "expense",
+      "details": "Internet"
+    },
+    {
+      "id": 4,
+      "date": "10.07.2024",
+      "amount": 55,
+      "type": "income",
+      "details": "Freelance Project"
+    },
+    {
+      "id": 5,
+      "date": "15.07.2024",
+      "amount": 40,
+      "type": "income",
+      "details": "Freelance Project"
+    },
+    {
+      "id": 7,
+      "date": "15.08.2024",
+      "amount": 81,
+      "type": "income",
+      "details": "Freelance Project"
+    }
+  ]
+}
